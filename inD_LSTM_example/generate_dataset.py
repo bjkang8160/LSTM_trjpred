@@ -4,7 +4,7 @@
 
 #Generate a synthetic dataset for our LSTM encoder-decoder
 #We will consider a noisy sinusoidal curve 
-
+## BJ
 #'''
 
 import numpy as np
